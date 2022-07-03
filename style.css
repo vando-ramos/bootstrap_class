@@ -1,0 +1,42 @@
+.navbar {
+    background-color: aquamarine;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+}
+
+.navbar-nav {
+    font-size: 20px;    
+}
+
+.nav-item {
+    padding-left: 30px;
+    font-weight: bold;
+}
+
+.quem-somos {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.quem-somos img {
+    margin: 10px;
+}
+
+.col-lg-6 {
+    padding-top: 20px;
+}
+
+.parceiros {
+    background-color: aquamarine;    
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.rodape {
+    padding-top: 10px;
+}
